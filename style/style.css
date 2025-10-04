@@ -13,7 +13,7 @@ html, body{
 }
 
 body{
-    background: url('../pacote-d013/pacote-d013/imagens/fundo-madeira.jpg') no-repeat top center;
+    background: url('../pacote-d013/img/imagens/fundo-madeira.jpg') no-repeat top center;
     background-attachment: fixed;
 }
 
@@ -30,7 +30,7 @@ section#telefone{
 
     height: 627px;
     width: 310px;
-    background: url('../pacote-d013/pacote-d013/imagens/frame-iphone.png') no-repeat;
+    background: url('../pacote-d013/img/imagens/frame-iphone.png') no-repeat;
 }
 
 iframe#tela{
